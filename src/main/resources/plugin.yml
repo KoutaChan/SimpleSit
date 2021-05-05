@@ -1,0 +1,6 @@
+name: SimpleSit
+version: ${project.version}
+main: koutachan.simplesit.main
+api-version: 1.16
+authors: [ KoutaChan12 ]
+description: 座るプラグイン、1.16～
